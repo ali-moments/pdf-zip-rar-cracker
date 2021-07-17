@@ -18,4 +18,4 @@ Ali-MOMENTO
 ![License](https://img.shields.io/github/license/ali-moments/crackers)
 
 ## to do
-- [ ]mix these to one script :/
+- [ ] mix these to one script :/
