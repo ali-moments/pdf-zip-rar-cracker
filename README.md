@@ -1,41 +1,21 @@
-# rar-cracker
+# crackers
 
-python rar cracker
+just some simple python rar, zip and pdf cracker
 
 #### Warning
 This script is only for learning purpose.
 Never use it to break the law.
 
-## Table of Contents
-* [Installing](https://github.com/ali-moments/rar-cracker#installing)
-* [Usage](https://github.com/ali-moments/rar-cracker#usage)
-* [ScreenShot](https://github.com/ali-moments/rar-cracker#screenshot)
-* [Credits](https://github.com/ali-moments/rar-cracker#credits)
-* [License](https://github.com/ali-moments/rar-cracker#license)
-* [Dependencies](https://github.com/ali-moments/rar-cracker#dependencies)
+## Credits
 
-## Installing
-```bash
-git clone https://github.com/ali-moments/rar-cracker.git
-cd rar-cracker
-pip install -r requirements.txt
-```
-
-## Dependencies
-
-you can see github page of this python modules. 
-+ [brute](https://github.com/rdegges/brute)
-+ [python-unrar](https://github.com/matiasb/python-unrar)
-
-## Usage
-
-just run it with `python rar-cracker.py` command.
-There are two working modes.  
-+ **dictionary** mode, the script loads each word in the dictionary and trys to decrypt the rarfile using that word.
-+ **brute** mode, the script trys every permutation of the given string set.
+Ali-MOMENTO
+[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali.momento/)
 
 
-## ScreenShot
+## License
 
-![screenshot](screenshot.png)
+![License](https://img.shields.io/github/license/ali-moments/crackers)
 
+## to do
+- [ ]mix these to one script :/
